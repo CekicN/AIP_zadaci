@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Nikola\Desktop\C_vezbe\vezba 5\vezba5.7\vezba5.7\Source.c(14,2): warning C4033: 'ispisimatricu' must return a value
+C:\Users\Nikola\Desktop\C_vezbe\vezba 5\vezba5.7\vezba5.7\Source.c(15): warning C4716: 'ispisimatricu': must return a value
+  vezba5.7.vcxproj -> C:\Users\Nikola\Desktop\C_vezbe\vezba 5\vezba5.7\Debug\vezba5.7.exe

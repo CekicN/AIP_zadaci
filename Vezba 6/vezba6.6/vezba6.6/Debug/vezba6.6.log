@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Nikola\Desktop\C_vezbe\Vezba 6\vezba6.6\vezba6.6\Source.c(13,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\Nikola\Desktop\C_vezbe\Vezba 6\vezba6.6\vezba6.6\Source.c(21,17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  vezba6.6.vcxproj -> C:\Users\Nikola\Desktop\C_vezbe\Vezba 6\vezba6.6\Debug\vezba6.6.exe

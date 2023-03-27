@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Nikola\Desktop\C_vezbe\vezba 5\vezba 5.9\vezba 5.9\Source.c(12,7): error C2371: 'exp': redefinition; different basic types
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(475): message : see declaration of 'exp'
+C:\Users\Nikola\Desktop\C_vezbe\vezba 5\vezba 5.9\vezba 5.9\Source.c(19,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nikola\Desktop\C_vezbe\vezba 5\vezba 5.9\vezba 5.9\Source.c(35,22): warning C4020: 'exp': too many actual parameters

@@ -1,0 +1,5 @@
+﻿  vezba2.9.c
+C:\Users\Nikola\Desktop\C_vezbe\vezba2.9\vezba2.9\vezba2.9.c(17,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nikola\Desktop\C_vezbe\vezba2.9\vezba2.9\vezba2.9.c(21,20): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nikola\Desktop\C_vezbe\vezba2.9\vezba2.9\vezba2.9.c(32,10): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  vezba2.9.vcxproj -> C:\Users\Nikola\Desktop\C_vezbe\vezba2.9\Debug\vezba2.9.exe

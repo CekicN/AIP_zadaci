@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Nikola\Desktop\C_vezbe\vezba 5\vezba5.10\vezba5.10\Source.c(44,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\Nikola\Desktop\C_vezbe\vezba 5\vezba5.10\vezba5.10\Source.c(14): warning C4716: 'transponovano': must return a value
+  vezba5.10.vcxproj -> C:\Users\Nikola\Desktop\C_vezbe\vezba 5\vezba5.10\Debug\vezba5.10.exe

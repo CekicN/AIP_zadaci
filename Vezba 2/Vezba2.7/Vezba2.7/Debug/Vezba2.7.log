@@ -1,0 +1,3 @@
+﻿  Vezba2.7.c
+C:\Users\Nikola\Desktop\C_vezbe\Vezba2.7\Vezba2.7\Vezba2.7.c(17,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Vezba2.7.vcxproj -> C:\Users\Nikola\Desktop\C_vezbe\Vezba2.7\Debug\Vezba2.7.exe

@@ -1,0 +1,3 @@
+﻿  vezba2.8.c
+C:\Users\Nikola\Desktop\C_vezbe\Vezba2.8\Vezba2.8\vezba2.8.c(17,77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Vezba2.8.vcxproj -> C:\Users\Nikola\Desktop\C_vezbe\Vezba2.8\Debug\Vezba2.8.exe

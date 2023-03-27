@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Nikola\Desktop\C_vezbe\Vezba 6\vezba6.8\vezba6.8\Source.c(10,6): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\Nikola\Desktop\C_vezbe\Vezba 6\vezba6.8\vezba6.8\Source.c(12,20): warning C4018: '<': signed/unsigned mismatch
+  vezba6.8.vcxproj -> C:\Users\Nikola\Desktop\C_vezbe\Vezba 6\vezba6.8\Debug\vezba6.8.exe
